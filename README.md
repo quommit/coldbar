@@ -1,2 +1,2 @@
 # lta
-Locate low temperature areas using NFC data and PostGIS
+Locate low temperature land areas using NFC data and PostGIS
