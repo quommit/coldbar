@@ -1,0 +1,5 @@
+comment = 'Aggregate operations for minimum temperature time series data.'
+default_version = ${PG_COLDBAR_VERSION}
+relocatable = false
+requires = 'postgis'
+schema = 'coldbar'
